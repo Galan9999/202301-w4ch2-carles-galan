@@ -16,7 +16,7 @@ const App = (): JSX.Element => {
       </form>
       <div className="row">
         <div className="container-gif offset-1 col-6">
-          <img src="" className="gif" />
+          <img src="" alt="random gift" className="gif" />
         </div>
       </div>
       <div className="row">
